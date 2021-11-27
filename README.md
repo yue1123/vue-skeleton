@@ -5,6 +5,9 @@
 tips:
 配置项可能需要几分钟理解下,稍稍有点多(毕竟鱼和熊掌不可得兼嘛),可结合示例尝试自定义配置使用
 
+# demo
+[https://yue1123.github.io/vue-skeleton/unpackage/dist/build/h5/index.html#/](https://yue1123.github.io/vue-skeleton/unpackage/dist/build/h5/index.html#/)
+
 # props
 
 | 属性    | 说明                                          | 类型                       | 默认值  |
