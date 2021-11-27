@@ -1,0 +1,46 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/style1/index",
+			"style": {
+				"navigationBarTitleText": "样式1"
+			}
+		},
+		{
+			"path": "pages/style2/index",
+			"style": {
+				"navigationBarTitleText": "样式2"
+			}
+		},
+		{
+			"path": "pages/style3/index",
+			"style": {
+				"navigationBarTitleText": "样式3"
+			}
+		},
+		{
+			"path": "pages/style4/index",
+			"style": {
+				"navigationBarTitleText": "样式4"
+			}
+		},
+        {
+			"path": "pages/style5/index",
+			"style": {
+				"navigationBarTitleText": "样式5"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

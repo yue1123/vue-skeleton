@@ -1,0 +1,12 @@
+{
+  "name": "vue-skeleton",
+  "version": "1.0.0",
+  "description": "通用骨架屏加载,采用 flex 弹性布局,可根据配置灵活的自定义出大部分骨架屏布局,每一块都可以自定义 `css` 样式",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
